@@ -1,6 +1,6 @@
 ### Hi there, I'm Anisul Islam Oni - aka [ONICODEX][website] 👋
 
-<img src="https://github.com/ANISUL-ISLAM-ONI/ANISUL-ISLAM-ONI/blob/main/aiofinal.png" alt="ONICODEX" width="100%">
+<img src="https://github.com/anisulislamoni/anisulislamoni/blob/main/aiofinal.png" alt="ONICODEX" width="100%">
 
 [![Website](https://img.shields.io/website?label=onicodex.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fonicodex.blogspot.com)](https://onicodex.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/onicodex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FANISUL-ISLAM-ONI&screen_name=onicodex)
@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="onicodex | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="onicodex | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="onicodex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="onicodex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="onicodex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -90,27 +90,21 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [ANISUL-ISLAM-ONI/UniversityApi](https://github.com/ANISUL-ISLAM-ONI/UniversityApi)
-2. 📔 Created new repository [ANISUL-ISLAM-ONI/nextproarch](https://github.com/ANISUL-ISLAM-ONI/nextproarch)
-3. 📔 Created new repository [ANISUL-ISLAM-ONI/graphqljson](https://github.com/ANISUL-ISLAM-ONI/graphqljson)
-4. 📔 Created new repository [ANISUL-ISLAM-ONI/mongooseIDAutoIncrement](https://github.com/ANISUL-ISLAM-ONI/mongooseIDAutoIncrement)
-5. 📔 Created new repository [ANISUL-ISLAM-ONI/actl](https://github.com/ANISUL-ISLAM-ONI/actl)
-<!--RECENT_ACTIVITY:end-->
+  <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 22nd, 2023, 10:00:22 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+  <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img width="100%" height="25%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="100%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="100%" height="25%" alt="Anisul Islam Oni's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anisulislamoni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="100%" alt="Anisul Islam Oni's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anisulislamoni&layout=compact&langs_count=8&theme=algolia"/>
   </p>
   <p align="center">
-    <img alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ANISUL-ISLAM-ONI&theme=radical" width="100%" />
+    <img alt="Anisul Islam Oni's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anisulislamoni&theme=radical" width="100%" />
   </p>
 </details>
 
