@@ -10,8 +10,8 @@
 
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with others
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve suduko
 
 ### Connect with me:
@@ -50,7 +50,7 @@
 
 ### My handlers in different Online-Judges:
 
-[<img align="left" alt="codeforces" height="30px" width="128px" src="https://cdn.codeforces.com/s/59377/images/codeforces-sponsored-by-ton.png" />][codeforces]
+[<img align="left" alt="codeforces" height="30px" width="128px" src="https://codeforces.org/s/14434/images/codeforces-sponsored-by-ton.png" />][codeforces]
 <br />
 <br />
 
