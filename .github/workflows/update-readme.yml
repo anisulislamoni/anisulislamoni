@@ -17,6 +17,28 @@ jobs:
           script: |
             const fs = require('fs');
             const path = 'README.md';
+
+            function listDirectory(dir, prefix = '') {
+              const items = fs.readdirSync(dir, { withFileTypes: true });
+              
+              for (const item of items) {
+                const fullPath = path.join(dir, item.name);
+                const relativePath = path.relative('.', fullPath);
+                
+                if (item.isDirectory() && !item.name.startsWith('.git')) {
+                  console.log(`${prefix}📁 ${item.name}/`);
+                  if (prefix.length < 6) { // Limit depth
+                    listDirectory(fullPath, prefix + '  ');
+                  }
+                } else if (item.isFile()) {
+                  const stats = fs.statSync(fullPath);
+                  console.log(`${prefix}📄 ${item.name} (${stats.size} bytes)`);
+                }
+              }
+            }
+            
+            console.log('=== Repository Structure ===');
+            listDirectory('.');
             
             if (!fs.existsSync(path)) {
               core.setFailed('README.md not found');
