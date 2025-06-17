@@ -11,7 +11,7 @@
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 <!-- CURRENT_YEAR --> Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve suduko
 
 ### Connect with me:
