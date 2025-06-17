@@ -11,12 +11,9 @@
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 <span id="current_year"></span> Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve suduko
 
-<script>
-  document.getElementById('current_year').textContent = new Date().getFullYear();
-</script>
 ### Connect with me:
 
 [<img align="left" alt="onicodex | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
