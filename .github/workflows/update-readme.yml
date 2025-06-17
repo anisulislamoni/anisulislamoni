@@ -11,26 +11,10 @@ jobs:
     name: Update Profile README
 
     steps:
-      - name: Update README with current year
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const path = './README.md';
-            
-            if (!fs.existsSync(path)) {
-              core.setFailed('README.md not found');
-              return;
-            }
-            
-            let content = fs.readFileSync(path, 'utf8');
-            const currentYear = new Date().getFullYear();
-            
-            // Replace placeholder or update copyright
-            content = content.replace(/{{CURRENT_YEAR}}/g, currentYear);
-            
-            fs.writeFileSync(path, content);
       - uses: actions/checkout@v3
+      - name: Update README with current year
+        run: |
+          ls -la
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
