@@ -11,6 +11,10 @@ jobs:
     name: Update Profile README
 
     steps:
+      - name: Update README with current year
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          sed -i "s/{{CURRENT_YEAR}}/$CURRENT_YEAR/g" README.md
       - uses: actions/checkout@v3
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
