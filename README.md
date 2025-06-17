@@ -2,6 +2,10 @@
 
 <img src="https://github.com/anisulislamoni/anisulislamoni/blob/main/aiofinal.png" alt="ONICODEX" width="100%">
 
+<script>
+  document.getElementById('current_year').textContent = new Date().getFullYear();
+</script>
+
 [![Website](https://img.shields.io/website?label=onicodex.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fonicodex.blogspot.com)](https://onicodex.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/onicodex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FANISUL-ISLAM-ONI&screen_name=onicodex)
 ![](https://komarev.com/ghpvc/?username=ANISUL-ISLAM-ONI&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
@@ -11,7 +15,7 @@
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 <span id="current_year"></span> Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve suduko
 
 ### Connect with me:
@@ -110,7 +114,7 @@
 
 [website]: https://onicodex.blogspot.com/
 [course]: https://onicodex.blogspot.com/
-[twitter]: https://twitter.com/ONICODEX
+[twitter]: https://x.com/ONICODEX
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/ANISUL_ISLAM_ONI/
 [linkedin]: https://www.linkedin.com/in/anisul-islam-oni/
