@@ -14,7 +14,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: Update README with current year
         run: |
-          ls -la
+          CURRENT_YEAR=$(date +%Y)
+          sed -Ei "s/(🥅 )[^ ]+( Goals:)/\1$CURRENT_YEAR\2/" README.md
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
