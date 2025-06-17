@@ -11,7 +11,7 @@
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve suduko
 
 ### Connect with me:
@@ -93,7 +93,7 @@
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 12:37:31 PM
+Last Updated: Tuesday, June 17th, 2025, 1:04:53 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
