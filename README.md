@@ -59,9 +59,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504](https://www.youtube.com/watch?v=2hJkprFnzhY)
+- [Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504](https://www.youtube.com/watch?v=2hJkprFnzhY)
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503](https://www.youtube.com/watch?v=ZAzWPE9CItg)
-- [Taiwan: Street Food with the CEO of a $5 Trillion Company | Jensen Huang and Lex Fridman](https://www.youtube.com/watch?v=FGCP2F_7rQk)
+- [Jensen &amp; Lex in Taiwan](https://www.youtube.com/watch?v=FGCP2F_7rQk)
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502](https://www.youtube.com/watch?v=s7d2d8FhevU)
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
 <!-- YOUTUBE:END -->
